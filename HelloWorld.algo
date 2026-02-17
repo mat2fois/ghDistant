@@ -5,6 +5,6 @@ Début
     Fenetre largeur=200 hauteur=100
     Titre HELLO_TITLE
 
-    Label texte=HELLO_TEXT
+    Label texte=HELLO_TEXT couleur="bleu"
 
 Fin
