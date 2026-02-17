@@ -2,7 +2,7 @@ Algorithme HelloWorld
 
 Début
 
-    Fenetre largeur=200 hauteur=100
+    Fenetre largeur=200 hauteur=100 couleur_fond="vert"
     Titre HELLO_TITLE
 
     Label texte=HELLO_TEXT couleur="bleu"
