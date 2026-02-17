@@ -2,11 +2,13 @@ Algorithme HelloWorld
 
 Début
 
-Fenetre largeur=420 hauteur=220 couleur_fond="cyan"
+
+Fenetre largeur=500 hauteur=250 couleur_fond="cyan"
 
     Titre HELLO_TITLE
 
     Label texte=HELLO_TEXT
+    Label 
 
     #modif github
     #modif locale 
